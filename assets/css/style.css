@@ -1121,25 +1121,13 @@ textarea.input-field {
     height: 100vh;
   }
 
-  /**
+  
   .hero-banner {
     max-width: unset;
     height: 100%;
     margin-bottom: 0;
   }
-*/
 
-  .hero-banner {
-    width: 100%;
-    max-width: 100%;
-    margin: 0; /* Elimina márgenes para un ajuste completo */
-  }
-  
-  .hero-banner img {
-    width: 100%;
-    height: auto; /* Mantiene la proporción */
-    display: block; /* Evita espacios no deseados debajo de la imagen */
-  }
 
   .hero img {
     height: 100%;
