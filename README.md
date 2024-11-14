@@ -1,1 +1,14 @@
-"# christian-desarrollo1975.github.io" 
+#Portafolio.
+
+- Sobre Mí.
+
+- Mis skill. (skills y Tools)
+
+- Mirá mis trabajos.
+
+- Contacto.
+
+
+
+
+
